@@ -13608,10 +13608,10 @@
         "repo": "mProjectsCode/obsidian-lemons-search-plugin"
 	},
     {
-        "id": "Three-Noun-Prompts",
+        "id": "three-noun-prompts",
         "name": "Three Noun Prompts",
         "description": "Creative writing prompts that can be synced offline.",
         "author": "jamespeachh",
-        "repo": "jamespeachh/Three-Noun-Prompts"
+        "repo": "jamespeachh/three-noun-prompts"
     }
 ]
